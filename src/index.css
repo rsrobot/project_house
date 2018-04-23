@@ -7,3 +7,7 @@ body {
 .navbar-top {
   margin-bottom: 40px;
 }
+
+.table-width {
+  width: 200px;
+}
