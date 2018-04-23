@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import Chat from "./Chat";
+import Cal1 from "./Cal1";
 import Navbar from "./Navbar";
-import { Button } from 'reactstrap';
 
 class App extends Component {
   render() {
@@ -9,7 +8,7 @@ class App extends Component {
       <div>
         <Navbar/>
         <row>
-          <Chat/>
+          <Cal1/>
         </row>
       </div>
     );
